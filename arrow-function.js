@@ -1,7 +1,7 @@
 // uma função de apresentar por exemplo:
 
 function apresentar(nome){
-return ´meu nome é ${nome}´ ;
+return `meu nome é ${nome}` ;
 }
 
-const apresentarArrow = nome => ´meu nome é
+const apresentarArrow = nome => `meu nome é ${nome}`;
